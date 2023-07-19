@@ -1,20 +1,16 @@
 # power_consumption_py
-```python 
-   
 
-```
-**Modules used** : psutil, datetime, and tabulate
-Modules used : psutil, datetime, and tabulate 
-**psutil** is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. Supported platforms 
-**installation : pip install psutil** 
-**datetime** works with dates and times. It provides a variety of classes for representing and manipulating dates and times, as well as for formatting and parsing dates and times in a variety of formats. 
-**installation : pip install datetime** 
-**Tabulate** is an open-source python package/module which is used to print tabular data in nicely formatted tables. 
-**installation : pip install tabulate**
+**Modules used** : psutil, datetime, and tabulate <br>
+**psutil** is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. Supported platforms <br>
+**installation : pip install psutil** <br>
+**datetime** works with dates and times. It provides a variety of classes for representing and manipulating dates and times, as well as for formatting and parsing dates and times in a variety of formats. <br>
+**installation : pip install datetime** <br>
+**Tabulate** is an open-source python package/module which is used to print tabular data in nicely formatted tables. <br>
+**installation : pip install tabulate**<br>
 
-**Explanation of the programme :**
-A normal function called **Power_Consumption_By_Software()** without any parameters or arguments delcearing inside it. The programm is userfriendly in which users have to select any one of the choices and relative answers will give by the programm/function. The whole code was develooped in three phases inside the function they are :
-**Phase 1 ->** phase 1 code wiil the answer for the following question **See all the applications/softwares currently running behind your device ?** phase 1 code has written from line(13 to 23) :
+**Explanation of the programme :** <br>
+A normal function called **Power_Consumption_By_Software()** without any parameters or arguments delcearing inside it. The programm is userfriendly in which users have to select any one of the choices and relative answers will give by the programm/function. The whole code was develooped in three phases inside the function they are : <br>
+**Phase 1 ->** phase 1 code wiil the answer for the following question **See all the applications/softwares currently running behind your device ?** phase 1 code has written from line(13 to 23) : <br>
 
 ```python 
    #**Phase 1**
