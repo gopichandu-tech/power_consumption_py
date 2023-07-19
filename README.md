@@ -7,9 +7,10 @@
 Modules used : psutil, datetime, and tabulate 
 **psutil** is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. Supported platforms 
 **installation : pip install psutil** 
-**datetime** works with dates and times. It provides a variety of classes for representing and manipulating dates and times, as well as for formatting and parsing dates and times in a variety of formats. **installation : pip install psutil** 
+**datetime** works with dates and times. It provides a variety of classes for representing and manipulating dates and times, as well as for formatting and parsing dates and times in a variety of formats. 
+**installation : pip install datetime** 
 **Tabulate** is an open-source python package/module which is used to print tabular data in nicely formatted tables. 
-**installation : pip install psutil**
+**installation : pip install tabulate**
 
 **Explanation of the programme :**
 A normal function called **Power_Consumption_By_Software()** without any parameters or arguments delcearing inside it. The programm is userfriendly in which users have to select any one of the choices and relative answers will give by the programm/function. The whole code was develooped in three phases inside the function they are :
