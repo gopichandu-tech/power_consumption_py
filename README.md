@@ -95,3 +95,14 @@ while True :
      Power_Consumption_By_Software()
 
 ```
+
+**OUTPUT :**
+![Option1](https://github.com/gopichandu-tech/power_consumption_py/assets/70055677/489bd496-68e2-4aa5-8904-0be1f10c5a39)
+
+![Option1_continue_Option3](https://github.com/gopichandu-tech/power_consumption_py/assets/70055677/b46f57fd-0eef-450a-957f-3fa4e9e77af0)
+
+![Option2_application_not_running](https://github.com/gopichandu-tech/power_consumption_py/assets/70055677/6183d4d8-cd78-4a29-a332-2a2c707224a2)
+
+![Option2_application_running](https://github.com/gopichandu-tech/power_consumption_py/assets/70055677/130c578c-0c01-4f27-bafb-78b263ea9e75)
+
+![Option2_application_running_continue](https://github.com/gopichandu-tech/power_consumption_py/assets/70055677/56b545c9-76df-4a3c-a6e5-165ea1e0b1b4)
